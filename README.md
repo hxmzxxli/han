@@ -1,8 +1,8 @@
-hello my name is Hamza Ali Mohammed Shaik and i am learning programming
-this is an update
+# React + Vite
 
-## Developement Environment 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Make sure you have python installed in you computer before starting to program
+Currently, two official plugins are available:
 
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
